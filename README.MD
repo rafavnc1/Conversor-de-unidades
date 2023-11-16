@@ -9,12 +9,7 @@ In this project, a web page was created for converting units.
 
 ## Layout
 ##### Desktop
-![screen1](./assets/home-page-cat-blog-desktop.png)
-
-##### Mobile
-![screen1](./assets/home-page-cat-blog-mobile.png)
-
-
+![screen1](./assets/desktop-example.png)
 
 # Tecnologias utilizadas / Tech stack
 - HTML
