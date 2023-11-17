@@ -1,4 +1,4 @@
-# Blog de gato / Cat blog
+# Conversor de Unidades / Unit Converter
 [![NPM](https://img.shields.io/npm/l/react)](./LICENSE)
 
 # Sobre o projeto / About the project
@@ -8,7 +8,6 @@ Neste projeto foi criado uma página web para conversão de unidades.
 In this project, a web page was created for converting units.
 
 ## Layout
-##### Desktop
 ![screen1](./assets/desktop-example.png)
 
 # Tecnologias utilizadas / Tech stack
